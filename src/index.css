@@ -41,7 +41,7 @@ body.theme-light {
 
 /* --- ANIMASI TRANSISI IMMERSIVE PADA BODY --- */
 body {
-  background-image: var(--bg-gradient), url('public/bg-toko.jpeg');
+  background-image: var(--bg-gradient), url('/bg-toko.jpeg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;

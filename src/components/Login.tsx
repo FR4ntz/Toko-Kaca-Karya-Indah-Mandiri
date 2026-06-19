@@ -85,7 +85,7 @@ export default function Login({ onLogin, onCancel, initialMode = 'login' }: Logi
         <div className="text-center mb-8">
           <div className="inline-flex items-center justify-center p-2 rounded-2xl bg-white shadow-xl shadow-black/10 mb-5">
             <img 
-              src="public/logo-kim.jpeg" 
+              src="/logo-kim.jpeg" 
               alt="Logo Karya Indah Mandiri" 
               className="w-16 h-16 object-contain"
               onError={(e) => { 

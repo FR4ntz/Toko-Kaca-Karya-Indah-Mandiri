@@ -139,7 +139,7 @@ export default function App() {
           <div className="flex items-center gap-4">
             {/* --- LOGO DIPERBESAR (h-20) DENGAN EFEK BAYANGAN --- */}
             <div className="p-1.5 bg-white/10 rounded-lg border border-white/20 backdrop-blur-sm">
-               <img src="public/logo-kim.jpeg" alt="KIM Logo" className="h-20 w-auto object-contain drop-shadow-xl" />
+               <img src="/logo-kim.jpeg" alt="KIM Logo" className="h-20 w-auto object-contain drop-shadow-xl" />
             </div>
             <div className="hidden sm:block">
               <span className="text-xl font-bold text-adaptive tracking-wide block leading-tight">KARYA INDAH MANDIRI</span>
