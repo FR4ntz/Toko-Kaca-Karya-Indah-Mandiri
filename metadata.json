@@ -1,0 +1,6 @@
+{
+  "name": "Toko Kaca Karya Indah Mandiri",
+  "description": "Prototype Aplikasi Katalog Kaca, Kalkulator Estimasi Harga, dan Dashboard Management dengan Ekspor PHP & MySQL untuk XAMPP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
